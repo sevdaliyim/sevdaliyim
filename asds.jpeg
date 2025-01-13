@@ -1,0 +1,13 @@
+{
+    "apiUrl": "https://panel2.cloudgolge.shop/appMainGetData.php",
+    "updateConfig": {
+        "updateVersiyon": "1.5.7",
+        "updateTitle": "Emege saygınız yoksa, uygulamayı kullanmaya hakkınız yoktur",
+        "updateYenilik": "Filmler Ve diziler ayrı kategori olarak ayarlandı",
+        "updateLink": "https://github.com/asdsplus/pro/raw/refs/heads/main/GolgeTV-Plus-1.5.7.apk",
+        "websiteLink": "https://emegesaygiapk.blogspot.com",
+        "telegramLink": "https://t.me/+Irpfjb1y4O8wYTNk"
+       
+    },
+     "appSignature": "D8C42BC6CD20C00E85659003F62B1F4A7A882DCB"
+}
