@@ -2,8 +2,8 @@
     "apiUrl": "https://panel2.cloudgolge.shop/appMainGetData.php",
     "updateConfig": {
         "updateVersiyon": "1.5.9",
-        "updateTitle": "Kısıtlamalar Kaldırıldı",
-        "updateYenilik": "Dns Engeli Kaldırıldı Reklam uyarısı kaldırıldı reklamsızdır",
+        "updateTitle": "Güvenlik Güncellemesi",
+        "updateYenilik": "güvenlik güncellemesi yapıldı",
         "updateLink": "https://github.com/sevdaliyim/pro/raw/refs/heads/main/GolgeTV-Plus-1.5.9.apk",
         "websiteLink": "https://emegesaygiapk.blogspot.com",
         "telegramLink": "https://t.me/+Irpfjb1y4O8wYTNk"
